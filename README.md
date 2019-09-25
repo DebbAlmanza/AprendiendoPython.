@@ -1,6 +1,6 @@
 # AprendiendoPython.
-Explicación de repositorio
-Un repositorio es un almacen, directorio donde se almacenan los archivos de un proyecto. Se puede almacenar archivos de codigo, imagenes, audio o todo relacionado con el proyecto.
+Explicación de repositorio: 
+un repositorio es un almacen, directorio donde se almacenan los archivos de un proyecto. Se puede almacenar archivos de codigo, imagenes, audio o todo relacionado con el proyecto.
 
 Comandos basicos de Git:
 1. Init: Se usa para crear un nuevo repositorio.
